@@ -2,8 +2,13 @@
 
 # Horiseon
 
-## Purpose
-A website that promotes Horiseons social solution servcies 
+## Description
+A functional website that provides examples of critical solutions to promote business revenue through social media. 
+
+## Table of Contents 
+- Buildt with (#buildt with)
+- Website (#website)
+- Contribution (#contribution)
 
 ## Built With
 * HTML
